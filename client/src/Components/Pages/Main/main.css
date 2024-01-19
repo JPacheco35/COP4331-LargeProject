@@ -1,0 +1,53 @@
+/* CSS for the Main (Logged In) Page */
+
+.Main {
+    text-align: center;
+    background: radial-gradient(circle at 24.1% 68.8%, rgb(50, 50, 50, 0.6) 0%, rgb(0, 0, 0, 0.6) 99.4%), url("../../Images/loginbg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.MainTab.MainTabs
+{
+  background-color: black;
+}
+
+.nav-tabs .nav-link {
+  background-color: #FFFFFF !important;
+  color: #000000 !important;
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
+}
+
+.nav-link.active
+{
+  background-color: #0d6efd !important;
+}
+
+.nav-tabs .nav-link.active {
+  border-bottom: solid 4px white !important;
+}
+
+#light {
+    background-color: #FFF;
+}
+
+#cbLight {
+    background: #faf9ec;
+}
+
+#dark {
+    background: #282828;
+    color: #FFF;
+}
+
+#cbDark {
+    background: #282828;
+    color: #FFF;
+}
+
+.MainTab.MainTabs {
+    background-color: black;
+}
