@@ -1,6 +1,5 @@
-# Movie-Knight
-A Movie List and Review Webapp using a MERN Stack. Large Project for COP 4331 Spring 2023, Group 16.
-
+# Movie-Knight: COP 4331 Spring 2023
+John Pacheco, Julian Espinoza, James Moore, Marcelino Pozo, Austin Stafford, Orlando Rodriguez
 ---
 
 ### Front-end Setup:
